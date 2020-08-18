@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet-blue?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blueviolet?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-blueviolet?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-blueviolet?style=flat-square&logo=expressjs)
