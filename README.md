@@ -1,5 +1,7 @@
-### Hello 👋, I'm [Emil](https://github.com/Ariminet) 👨‍💻
-<h1> Hello My name is Emil<h1/>
+
+<h1> Hello my name is Emil<h1/>
+<br/>
+  <p>I'm a Web developer student from denmark <p/>
 <br/>
 
   <img align="center" width="100%" alt="GIF" src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif" />
@@ -38,12 +40,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-042B48?style=flat-square&logo=css3)
 ![Heroku](https://img.shields.io/badge/-Heroku-042B48?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-042B48?style=flat-square&logo=github)
-
-
-
-
-Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Emil_Minet-042B48?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ari-minet-4106601a4/?originalSubdomain=dk)](https://www.linkedin.com/in/ari-minet-4106601a4/?originalSubdomain=dk)
-or [![Gmail Badge](https://img.shields.io/badge/-emil7015@gmail.com-042B48?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emil7015@gmail.com)](mailto:emil7015@gmail.com)
 
 
 
