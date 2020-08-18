@@ -58,7 +58,7 @@
 
 Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Emil_Minet-042B48?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ari-minet-4106601a4/?originalSubdomain=dk)](https://www.linkedin.com/in/ari-minet-4106601a4/?originalSubdomain=dk)
 or [![Gmail Badge](https://img.shields.io/badge/-emil7015@gmail.com-042B48?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emil7015@gmail.com)](mailto:emil7015@gmail.com)
-c14438
+
 
 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Emil_Minet-042B48?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ari-minet-4106601a4/?originalSubdomain=dk)](https://www.linkedin.com/in/ari-minet-4106601a4/?originalSubdomain=dk/)
 
