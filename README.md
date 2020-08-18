@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to web development 
 - 🎿 Gaming & Wife & kids in that order 🙃
 - 📫 How to reach me: Emil7015@gmail.com
-- 📝 [Resume](https://www.canva.com/design/DAEFRKqceDo/Yq_vIsCp07bxlBKzRHKhOw/view?utm_content=DAEFRKqceDo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 
+- 📝 [Resume](https://www.canva.com/design/DAEFRKqceDo/Yq_vIsCp07bxlBKzRHKhOw/view?utm_content=DAEFRKqceDo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
 <!---
 ### 🛠️ Languages and Tools:
 
