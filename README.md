@@ -1,4 +1,7 @@
 ### Hello 👋, I'm [Emil](https://github.com/Ariminet) 👨‍💻
+<br/>
+
+  <img align="center" width="100%" alt="GIF" src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif" />
 
 <br/>
 
@@ -8,7 +11,7 @@
 
 
 
-  <img align="center" width: "100%" alt="GIF" src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif" />
+
   
 ### ✨ Quick Facts
 
