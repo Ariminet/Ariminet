@@ -4,7 +4,7 @@
   <p>I'm a Web developer student from denmark <p/>
 <br/>
 
-  <img align="center" width="100%" alt="GIF" src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif" />
+  <img align="center" width="100%" alt="GIF" src="https://media.giphy.com/media/87UOZeRBzyIU0/giphy.gif" />
 
 <br/>
 
