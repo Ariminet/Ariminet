@@ -48,19 +48,19 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-blue?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=mongodb)
-![Next.js](https://img.shields.io/badge/-Next-blue?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-blue?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-blue?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-![Heroku](https://img.shields.io/badge/-Heroku-blue?style=flat-square&logo=heroku)
-![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-blueviolet?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-blueviolet?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-blueviolet?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blueviolet?style=flat-square&logo=mongodb)
+![Next.js](https://img.shields.io/badge/-Next-blueviolet?style=flat-square&logo=Next.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-blueviolet?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-blueviolet?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-blueviolet?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat-square&logo=css3)
+![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?style=flat-square&logo=heroku)
+![GitHub](https://img.shields.io/badge/-GitHub-blueviolet?style=flat-square&logo=github)
 <!---
 
 ### 👣 Next Steps
