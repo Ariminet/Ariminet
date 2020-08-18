@@ -1,22 +1,9 @@
 ### Hello 👋, I'm [Emil](https://github.com/Ariminet) 👨‍💻
 
 <br/>
-
-<a href="https://www.linkedin.com/in/ari-minet-4106601a4/?originalSubdomain=dk">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://t.me/amanatg0">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-
-<a href="mailto:emil7015@gmail.com">
-  <img align="left" alt="Emil's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-[![Gmail Badge](https://img.shields.io/badge/-emil7015@gmail.com-042B48?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emil7015@gmail.com)]
-
+If you want to connect with me: <br/>
+![Gmail Badge](https://img.shields.io/badge/-emil7015@gmail.com-042B48?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emil7015@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-Emil_Minet-042B48?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ari-minet-4106601a4/?originalSubdomain=dk)
 <br/>
 
 
