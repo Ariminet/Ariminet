@@ -8,7 +8,7 @@
 
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif" />
+  <img align="center" width: "100%" alt="GIF" src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif" />
   
 ### ✨ Quick Facts
 
