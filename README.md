@@ -29,34 +29,23 @@ Here are some ideas to get you started:
 </a>
 
 
-<!---
+
 <br />
 
 <br/>
 
-<p>
-A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
-<br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
-<br/>  
-Things I have recently experimented with : socket.io, react-cli , commander, inquirer , gsap(animation) and a lot of other ui-libs...
-<br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
-</p>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
-- 🌱 I’m currently learning React-Native and Animation
-- 🤔 I’m looking for help for my future MERN projects
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
-- ⚡️ Fun-Fact: I sleep at 6am 🙃
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
-- 📫 How to reach me: aman.atg001@gmail.com
-- 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
-
+- 👨🏽‍💻 I’m currently a student at Viden Djurs Grenaa Denmark
+- 🌱 I’m currently learning React-Native
+- 💬 Ask me about anything related to web development 
+- 🎿 Gaming & Wife & kids in that order 🙃
+- 📫 How to reach me: Emil7015@gmail.com
+- 📝 [Resume](https://www.canva.com/design/DAEFRKqceDo/Yq_vIsCp07bxlBKzRHKhOw/view?utm_content=DAEFRKqceDo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 
+<!---
 ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
