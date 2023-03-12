@@ -25,7 +25,7 @@
 - 📫 How to reach me: Emil7015@gmail.com
 
 ### 🛠️ Languages and Tools:
-![C#](https://img.shields.io/badge/-C#-042B48?style=flat-square&logo=Csharp)
+![C#](https://img.shields.io/badge/-Csharp-042B48?style=flat-square&logo=Csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-042B48?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-042B48?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-042B48?style=flat-square&logo=Node.js)
