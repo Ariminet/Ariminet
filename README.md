@@ -1,7 +1,7 @@
 
 <h1> Hello my name is Ari<h1/>
 <br/>
-  <p>I'm a Web developer student from denmark <p/>
+  <p>I'm a Software developer student from denmark <p/>
 <br/>
 
   <img align="center" width="100%" alt="GIF" src="https://media.giphy.com/media/87UOZeRBzyIU0/giphy.gif" />
@@ -19,15 +19,13 @@
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently a student at Viden Djurs Grenaa Denmark
-- 🌱 I’m currently learning React-Native
-- 💬 Ask me about anything related to web development 
+- 👨🏽‍💻 I’m currently a student at Eadania Grenaa Denmark
+- 💬 Ask me about anything related to Software development 
 - 🎿 Gaming & Wife & kids in that order 🙃
 - 📫 How to reach me: Emil7015@gmail.com
-- 📝 [CV](https://imgur.com/T5sOjwi) 
 
 ### 🛠️ Languages and Tools:
-
+![C#](https://img.shields.io/badge/-CSharp-042B48?style=flat-square&logo=CSharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-042B48?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-042B48?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-042B48?style=flat-square&logo=Node.js)
