@@ -30,6 +30,7 @@
 ![Python](https://img.shields.io/badge/-Python-042B48?style=flat-square&logo=Python)
 ![Unity](https://img.shields.io/badge/-Unity-042B48?style=flat-square&logo=Unity)
 ![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-042B48?style=flat-square&logo=UnrealEngine)
+![SQL](https://img.shields.io/badge/-SQL-042B48?style=flat-square&logo=SQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-042B48?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-042B48?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-042B48?style=flat-square&logo=Node.js)
