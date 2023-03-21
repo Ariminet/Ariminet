@@ -22,7 +22,7 @@
 - 👨🏽‍💻 I’m currently a student at Eadania Grenaa Denmark
 - 💬 Ask me about anything related to Software development 
 - 🎿 Gaming & Wife & kids in that order 🙃
-- 📫 How to reach me: Emil7015@gmail.com
+- 📫 How to reach me: Emil7015@gmail.com || Linkedin : https://www.linkedin.com/in/emil-ari-minet/
 
 ### 🛠️ Languages and Tools:
 ![C#](https://img.shields.io/badge/-CSharp-042B48?style=flat-square&logo=Csharp)
