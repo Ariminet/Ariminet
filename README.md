@@ -1,7 +1,7 @@
 
 <h1> Hello my name is Ari<h1/>
 <br/>
-  <p>I'm a Software developer student from denmark <p/>
+  <p>I'm a AP Computer science student from denmark <p/>
 <br/>
 
   <img align="center" width="100%" alt="GIF" src="https://media.giphy.com/media/87UOZeRBzyIU0/giphy.gif" />
